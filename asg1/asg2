@@ -7,16 +7,22 @@
 </head>
 <body>
 
-	<h1>Assignment 2- part 1</h1>
-	<p>In the readings, I learned about Web 3.0 and how data is not owned but shared. 
-I also learned how the web has developed over the decades and taken shape to what it presents now.
-Finally, I discovered context to coding, and types of code that have developed. </p>
-<h1>Assignment1 (part2)</h1>
-	<p>My idea for the final project is a website where people could body double together.
-This idea essentially would be similar to a facetime, where users sign in, and use other people to motivate them
-to get work done/complete tasks/stop procrastinating by working together. </p>
-	<p><a href="./asg1/index.html">Assignment 1</a></p>
+	<h1>Assignment 2- part 2</h1>
+	<p> What is the difference between structured content and semantic HTML? Structured content is smaller chunks
+of data found on webpages. Semantic HTML makes websites easier to read for bots, ai or other assistants.
 
-	<script src="./assets/js/main.js"></script>
+How do they work together?
+They work together to create a webpage that is both bot and human accesible. 
+
+Why is it important to have structured content and semantic HTML in your web pages? </p>
+It's important to make your webpage accessible to both humans and other algorithms. 
+
+<h1>Assignment 2- part 3</h1>
+<p> There are 3 websites similar, but a bit different to my website idea. Focusmate, Caveday and flowclub. 
+<h1>Assignment 2- part 4</h1>
+The best method for my inner critic is interrogation. Figuring out what the part of me is, where it comes from, 
+and what the purpose is. Similar to a "parts" interview. 
+A great way to prevent procrastination is in the present moment. Do things in the present, to assist your future self.
+
 </body>
 </html>
