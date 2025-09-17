@@ -20,12 +20,11 @@ Stories can assist us in emotional connection. They allow us to go through the n
 From Meet Your Type: A Field Guide to Love and Typography: What are different ways to establish hierarchy (or emphasis) in typography design? Provide a link to a good example of hierarchy. Size of the font is one of the best ways to establish hierarchy in design. The flushing of the font also matters. 
 <a href="https://smithandconnors.com/sites/default/files/inline-images/example-hierarchy.png">Hierarchy Example<a> </p>
 <h1>Assignment 3: part3</h1>
-<p>
-Problem
-Audience
-Competition
-Key Messages
-Call to Action
-How to Measure Success
+<p>Problem: Students, Teachers, and people keep procrastinating. They struggle with getting started on any project such as cleaning, writing, etc.</p>
+<p>Audience:Individuals that struggle with procrastination, and find body-doubling useful</p>
+<p>Competition:Other similar body double websites, facetime, and similar video apps</p>
+<p>Key Messages:Get stuff done, Clear off the to-do list, Relax</p>
+<p>Call to Action:My website will provide body doubling resources virtually, to allow tasks to get done</p>
+<p>How to Measure Success:If our website is used and functional</p>
 </body>
 </html>
