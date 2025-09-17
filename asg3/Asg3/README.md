@@ -10,7 +10,6 @@
 	
 </head>
 <body>
-
 	<h1>Assignment 3: part2</h1>
 	<p>From the Do's and Don'ts of Web Design, provide a link to an example of a violation of number 6 (clickable elements are not obvious).
 From the Better User Experience Through Storytelling Articles: How can framing your project in a story format help you refine your ideas? Write a paragraph explanation.
@@ -23,9 +22,5 @@ Competition
 Key Messages
 Call to Action
 How to Measure Success
-</p>
-<a href="https://en.wikipedia.org/wiki/Magdalena_Bay_(duo)" </a>
-<a href="https://imaginaldisk.world/">Magdalena Bay </a>
-	<img src="img/images.webp">
 </body>
 </html>
