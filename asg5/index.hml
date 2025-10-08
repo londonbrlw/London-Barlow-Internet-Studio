@@ -1,1 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Dinner Party</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Bodoni:ital,wght@0,400..700;1,400..700&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+	<link href="style.css" rel="stylesheet">
+	
+</head>
+<body>
 
+	<h1>You're invited,</h1>
+<h2>To Lo's Dinner Party!</h2>
+	<p>Info here</p>
+
+<h2>Desserts:</h2>
+	<ul>
+<li>Chocolate Brownies</li>
+<li>Chocolate Chip Cookies</li>
+<li>Pumpkin Bread</li>
+</ul>
+</body>
+</html>
