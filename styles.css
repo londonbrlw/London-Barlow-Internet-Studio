@@ -26,4 +26,6 @@
 body {
       font-family: "Lato", sans-serif;
 }
-
+html {
+background-image: url(double-bubble.webp);
+}
