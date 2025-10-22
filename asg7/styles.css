@@ -30,7 +30,7 @@
   font-family: 'Crete Round';
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/crete-round-v16-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('fonts/crete-round-v16-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 /* lunasima-regular - latin */
 @font-face {
@@ -38,7 +38,7 @@
   font-family: 'Lunasima';
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/lunasima-v1-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('fonts/lunasima-v1-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 
