@@ -17,7 +17,9 @@
 }
 
 
-html {font-size: 16px;}
+html {font-size: 16px;
+	 background-image: url(midtermbackground.jpg)}
+
 
 body {
   font-family: 'Special Gothic', sans-serif;
