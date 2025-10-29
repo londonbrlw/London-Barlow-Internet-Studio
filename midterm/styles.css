@@ -88,7 +88,7 @@ nav a {
 }
 
 nav a:hover {
-	background-color: red;
+	background-color: pink;
 	transform: scale(1.5);
 }
 
