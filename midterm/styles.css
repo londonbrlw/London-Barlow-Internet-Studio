@@ -84,12 +84,12 @@ nav ul li {
 nav a {
 	/* transition: all .5s; */
 	transition: transform .5s;
-	background-color: 1s ease-in .5s;
+	background-color: 1s ease-in 1.5s;
 }
 
 nav a:hover {
 	background-color: pink;
-	transform: scale(1.0);
+	transform: scale(1.2);
 }
 
 /* Notes */
