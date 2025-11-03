@@ -90,7 +90,7 @@ nav a {
 }
 
 nav a:hover {
-	background-color: #4e8f8b;
+	background-color: #da9c6d;
 	transform: scale(1.2);
 }
 
@@ -124,7 +124,7 @@ aside {
   width: 30%;
   float: right;
   margin: 10px;
-  background-color: rgb(235,236,240);
+  background-color: #da9c6d;
   padding: 10px 20px;
   border: 1px dotted rgb(0,0,0);
   border-top: 20px solid rgb(0,0,0);
