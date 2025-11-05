@@ -140,15 +140,4 @@ aside {
   box-shadow: 5px 5px 10px rgba(0,0,0,.5);
 }
 
-aside.left {
-  width: 30%;
-  float: left;
-  margin: 10px;
-  background-color: #FFFFFF;
-  padding: 10px 20px;
-  border: 1px dotted rgb(0,0,0);
-  border-top: 20px solid #da9c6d;
-  border-radius: 10px;
-  box-shadow: 5px 5px 10px rgba(0,0,0,.5);
-}
 
