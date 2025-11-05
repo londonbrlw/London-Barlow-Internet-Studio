@@ -133,6 +133,18 @@ nav a {
   box-shadow: 5px 5px 10px rgba(0,0,0,.5);
 }
 
+.other-aside {
+  width: 30%;
+  float: right;
+  margin: 10px;
+  background-color: #FFFFFF;
+  padding: 10px 20px;
+  border: 1px dotted rgb(0,0,0); /* Aside box on the right for my index html*/
+  border-top: 20px solid #000000;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgba(0,0,0,.5);
+}
+
 aside {
   width: 80%;
   float: none;
