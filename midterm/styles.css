@@ -101,10 +101,6 @@ nav a:hover {
 	transform: scale(1.2);
 }
 
-nav {
-	margin-left: 150px;	
-}
-
 nav li {
 	display: inline;
 }
