@@ -51,6 +51,15 @@ h1,
 }
 
 h2,
+.text-size-h2 {
+  font-family: 'Alfa Slab One', sans-serif;
+  font-weight: 700;
+  margin-top: 0;
+  font-size: 3.16em;
+  letter-spacing: 2.5px;
+}
+
+h2,
 .text-size-h2 { font-size: 3.16em; }
 
 h3,
