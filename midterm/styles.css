@@ -150,7 +150,13 @@ aside {
   box-shadow: 5px 5px 10px rgba(0,0,0,.5); /* Aside box on the center for my pages*/
 }
 
-.back-space {
+nav a.back-space {
 float: left;
 	margin-left: 20px;
 }
+
+nav ul li.back-space {
+	margin-right: auto;
+}
+
+
