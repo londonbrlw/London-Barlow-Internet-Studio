@@ -46,33 +46,31 @@ h2 {
   text-align: center;
 }
 
-/* CSS Grid Container */
+/* CSS boxes container */
 .gridContainer {
   display: grid;
   border: 4px white solid;
   border-radius: 5px;
   width: 80%;
  height: 1000px;
- grid-template: repeat(3, 1fr) / repeat(4, 1fr);
+ grid-template: repeat(3, 1fr)/*rows*/ / repeat(4, 1fr);/*columns*/
  gap: 15px;
  margin: 0 auto;
 }
 
 /* CSS Grid Items */
 .box {
-  background-color: lightpink;
+  background-color: lightpink; 
   color: black;
   border-radius: 5px;
   border: 4px black solid;
 }
 
 .a {
-  /*grid-row: 4 / 6;
-  grid-column: 3 / span 3;*/
+
 }
 
 
 .b {
-  /*grid-row: 4 / 6;
-  grid-column: 3 / span 3;*/
+  /*hmmmm*/
 }
