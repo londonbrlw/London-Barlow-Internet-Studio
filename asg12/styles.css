@@ -23,3 +23,56 @@
        
 
  Insert all your glorious CSS styles below! */
+body {
+  margin: 0;
+  border: 0;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 3.815rem;
+}
+
+h2 {
+  font-size: 3.052rem;
+}
+
+p {
+  font-size: 1rem;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+/* CSS Grid Container */
+.gridContainer {
+  display: grid;
+  border: 4px white solid;
+  border-radius: 5px;
+  width: 80%;
+ height: 1000px;
+ grid-template: repeat(3, 1fr) / repeat(4, 1fr);
+ gap: 15px;
+ margin: 0 auto;
+}
+
+/* CSS Grid Items */
+.box {
+  background-color: lightpink;
+  color: black;
+  border-radius: 5px;
+  border: 4px black solid;
+}
+
+.a {
+  /*grid-row: 4 / 6;
+  grid-column: 3 / span 3;*/
+}
+
+
+.b {
+  /*grid-row: 4 / 6;
+  grid-column: 3 / span 3;*/
+}
